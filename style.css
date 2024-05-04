@@ -1,0 +1,57 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background-color: teal;
+}
+
+.header{
+    background-image: url(Snapchat-1401608533.jpg);
+    background-size: cover;
+    min-height: 100vh;
+    width: 100%;
+    background-position: center;
+    position: relative;
+}
+
+nav img{
+    width: 80px;
+    height: 60px;
+    margin-top: 10px;
+    margin-left: -1px;
+}
+
+.navlinks li{
+    display: inline-flex;
+    padding: 20px;
+    margin-left: 7%;
+}
+
+nav a{
+    list-style: none;
+    text-decoration: none;
+    color: gold;
+    margin: 8px;
+    padding-bottom: 8%;
+    font-style: italic;
+    font-size: x-large;
+}
+
+.welcome p{
+    color: gold;
+    font-size: larger;
+    text-align: center;
+    padding: 2%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}
+
+footer{
+    color: gold;
+    text-align: center;
+    padding: 5%;
+    font-size: larger;
+}
+
